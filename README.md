@@ -1,7 +1,7 @@
 ### Hi there! I'm Leonardo Teixeira 👋
 [![Badge](https://img.shields.io/static/v1?label=&message=Leonardo&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoteixeiratec/)](https://www.linkedin.com/in/leonardoteixeiratec/)
 
-- 💻 I’m currently working at KeyMax as Back-end Developer
+- 💻 I’m currently working at Jazida as Back-end Developer
 - 🌱 I’m currently learning more about microservices
 
 ---
